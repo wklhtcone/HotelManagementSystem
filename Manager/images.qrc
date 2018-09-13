@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="login">login.ico</file>
+        <file alias="off">sumup.ico</file>
+        <file alias="change">changestate.png</file>
+        <file>add.png</file>
+        <file>minus.png</file>
+        <file>setcold.png</file>
+        <file>setwarm.png</file>
+        <file>bg.jpg</file>
+        <file>head.png</file>
+        <file>level.png</file>
+        <file>level2.png</file>
+        <file>level3.png</file>
+        <file>123.jpg</file>
+        <file>456.jpg</file>
+        <file>789.jpg</file>
+    </qresource>
+</RCC>
